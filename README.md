@@ -18,3 +18,20 @@ and then run it using:
 ```
 $ bash configure-debian.sh
 ```
+
+## configure-arch.sh
+
+Similar to the `configure-debian.sh` script, except adapted to Arch Linux.
+
+Download the script using:
+
+```
+$ wget --no-check-certificate https://raw.githubusercontent.com/TheAwesomeEgg/scripts/master/configure-arch.sh \
+   -O configure-arch.sh
+```
+
+and then run it using:
+
+```
+$ bash configure-arch.sh
+```
