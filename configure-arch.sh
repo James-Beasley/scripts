@@ -1,9 +1,9 @@
 #!/bin/bash
 
 # Applications
-sudo pacman -S --noconfirm atom compton dialog feh firefox fish ttf-hack \
-    i3-gaps i3blocks i3lock i3status lightdm lightdm-gtk-greeter pavucontrol \
-    ranger redshift rofi vim wget wpa_supplicant xorg xterm
+sudo pacman -S --noconfirm atom compton feh firefox fish ttf-hack i3-gaps \
+    i3blocks i3lock i3status lightdm lightdm-gtk-greeter pavucontrol ranger\
+    redshift rofi vim wget xorg xterm
 
 # Folder creation
 mkdir -p ~/.config/i3/ ~/.config/fish/ ~/.vim/autoload/ ~/.vim/colors/
