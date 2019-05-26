@@ -3,7 +3,7 @@
 # Applications
 sudo apt-get -y install compton feh firefox-esr fish fonts-hack-ttf i3 \
     i3blocks i3lock i3status lightdm pavucontrol ranger redshift rofi \
-    wicd-curses vim xorg --no-install-recommends
+    vim xorg --no-install-recommends
 
 # Applications not in the repos
 wget https://raw.githubusercontent.com/maestrogerardo/i3-gaps-deb/master/i3-gaps-deb \
